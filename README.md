@@ -1,7 +1,7 @@
 # zabbix
 zabbix monitoring for netsentra
 anggota :
-- Marwan Ironman
+- Marwanbiasaja
 
 - Oei 1234567890
 
