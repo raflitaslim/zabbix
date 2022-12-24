@@ -1,7 +1,7 @@
 # zabbix
 zabbix monitoring for netsentra
 anggota :
-- Marwanbiasaja
+- Marwanbiasaja pingin kaya
 
 - Oei 1234567890
 
